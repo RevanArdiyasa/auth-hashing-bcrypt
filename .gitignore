@@ -1,0 +1,13 @@
+# File konfigurasi lokal
+config.php
+
+# Cache / temporary
+*.log
+.DS_Store
+Thumbs.db
+
+# Folder vendor jika nanti pakai composer
+/vendor
+
+# File database lokal
+*.sql
